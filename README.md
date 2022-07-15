@@ -1,1 +1,1 @@
-Study project using react
+Study project using React
