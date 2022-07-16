@@ -16,7 +16,7 @@ function Footer() {
         </li>
       </ul>
       <p className={styles.copy_right}>
-        <span>Costs</span> &copy;  2022. Todos os direitos reservados.
+      ⭐ From <a href="https://github.com/migueelzz">Miguel Lemes</a>
       </p>
     </footer>
   )
