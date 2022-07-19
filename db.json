@@ -1,26 +1,37 @@
 {
   "projects": [
     {
-      "name": "my project",
-      "budget": "4000",
+      "name": "Projeto atualizado",
+      "budget": "1500",
       "category": {
-        "id": "2",
-        "name": "Development"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": [],
       "id": 1
     },
     {
-      "name": "new project",
-      "budget": "3000",
+      "name": "Meu segundo projeto",
+      "budget": "2000",
       "category": {
-        "id": "1",
-        "name": "Infrastructure"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": [],
       "id": 2
+    },
+    {
+      "name": "Teste projeto 01",
+      "budget": "10000",
+      "category": {
+        "id": "2",
+        "name": "Development"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
     }
   ],
   "categories": [
