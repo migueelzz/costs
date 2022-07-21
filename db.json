@@ -1,17 +1,6 @@
 {
   "projects": [
     {
-      "name": "Projeto atualizado",
-      "budget": "1500",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
       "name": "Meu segundo projeto",
       "budget": "2000",
       "category": {
@@ -32,6 +21,28 @@
       "cost": 0,
       "services": [],
       "id": 3
+    },
+    {
+      "name": "Teste atual",
+      "budget": "500",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "Testando novo projeto",
+      "budget": "1000",
+      "category": {
+        "id": "2",
+        "name": "Development"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
     }
   ],
   "categories": [
